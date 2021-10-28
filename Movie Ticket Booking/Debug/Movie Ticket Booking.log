@@ -1,0 +1,14 @@
+﻿  Cinema.cpp
+C:\Users\AUC\source\repos\Movie Ticket Booking\Movie Ticket Booking\Cinema.h(44,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AUC\source\repos\Movie Ticket Booking\Movie Ticket Booking\Cinema.h(277,68): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\AUC\source\repos\Movie Ticket Booking\Movie Ticket Booking\Cinema.h(280,58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  eWallet.cpp
+  Movie Ticket Booking.cpp
+C:\Users\AUC\source\repos\Movie Ticket Booking\Movie Ticket Booking\Cinema.h(44,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AUC\source\repos\Movie Ticket Booking\Movie Ticket Booking\Cinema.h(277,68): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\AUC\source\repos\Movie Ticket Booking\Movie Ticket Booking\Cinema.h(280,58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Movies.cpp
+  Seat.cpp
+  Ticket.cpp
+  Generating Code...
+  Movie Ticket Booking.vcxproj -> C:\Users\AUC\source\repos\Movie Ticket Booking\Debug\Movie Ticket Booking.exe
